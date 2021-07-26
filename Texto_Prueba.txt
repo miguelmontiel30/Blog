@@ -3,3 +3,5 @@ las cosass que se necesitan agregar.
 
 Yo me llamo Miguel Angel Montiel,
 Nací en México y tengo 23 años.
+
+Actualmente soy desarrollador web y me gusta crear nuevos proyectos.
