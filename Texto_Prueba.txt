@@ -5,3 +5,5 @@ Yo me llamo Miguel Angel Montiel,
 Nací en México y tengo 23 años.
 
 Actualmente soy desarrollador web y me gusta crear nuevos proyectos.
+
+Mis pasiones son el ciclismo y correr por las tardes.
