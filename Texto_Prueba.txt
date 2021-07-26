@@ -1,2 +1,5 @@
 Este es un texto de prueba, con todas
-las cosass que se necesitan agregar
+las cosass que se necesitan agregar.
+
+Yo me llamo Miguel Angel Montiel,
+Nací en México y tengo 23 años.
