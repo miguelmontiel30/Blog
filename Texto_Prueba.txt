@@ -2,7 +2,7 @@ Este es un texto de prueba, con todas
 las cosass que se necesitan agregar.
 
 Yo me llamo Miguel Angel Montiel,
-Nací en México y tengo 23 años.
+Naci en Mexico y tengo 23 anios.
 
 Actualmente soy desarrollador web y me gusta crear nuevos proyectos.
 
