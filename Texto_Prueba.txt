@@ -1,9 +1,0 @@
-Este es un texto de prueba, con todas
-las cosass que se necesitan agregar.
-
-Yo me llamo Miguel Angel Montiel,
-Naci en Mexico y tengo 23 anios.
-
-Actualmente soy desarrollador web y me gusta crear nuevos proyectos.
-
-Mis pasiones son el ciclismo y correr por las tardes.

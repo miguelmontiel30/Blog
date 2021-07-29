@@ -1,0 +1,1 @@
+Este es el readme del archivo prueba de Git.
