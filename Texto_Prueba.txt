@@ -10,5 +10,3 @@ Mis pasiones son el ciclismo y correr por las tardes.
 
 Estoy Aprendiendo a regresar en el tiempo con Git y Git reset.
 Esto de volver en el tiempo es dificil.
-
-Creo que ya lo voy dominando.
