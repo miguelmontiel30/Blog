@@ -3,5 +3,6 @@ Yo me llamo Miguel Angel Montiel, naci en Mexico y tengo 23 anios.
 Actualmente soy desarrollador web y me gusta crear nuevos proyectos.
 
 Mis pasiones son el ciclismo y correr por las tardes.
+
 Estoy Aprendiendo a regresar en el tiempo con Git y Git reset.
 Y creo que ya lo voy dominando.
